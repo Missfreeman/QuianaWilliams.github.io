@@ -1,0 +1,53 @@
+ body {
+    font-family: Georgia, "Times New Roman";
+    text-align: center;
+    font-size: 25px;
+    color: gold;
+    background-image: url("Artboard3.png");
+    
+}
+a:VISITED{
+    color: white;
+}
+
+img {
+    text-align: center;
+}
+
+p {
+    font-family: fantasy;
+    text-align: center;
+    color: black;
+    padding-top: 0em;
+    padding-right: 2em;
+    padding-bottom: 0;
+    padding-left: 2em;
+}
+  
+  h1 {
+    font-family: cursive;
+    color: black;
+    text-align: center;
+ }
+ 
+  h2 {
+     font-family: fantasy;
+     text-align: center;
+     color: blue;
+  }
+  
+  h3 {
+    font-family: cursive;
+    color: blue;
+    text-align: center;
+}
+
+center {
+    color: white;
+}
+  
+  div {
+      font-family: cursive;
+      text-align: center;
+      color: black;
+  }
