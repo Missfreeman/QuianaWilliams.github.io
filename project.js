@@ -4,9 +4,7 @@ var address = prompt("What is your email Address");
 
 
 document.write(rsvp);
-<br/>;
 document.write(name);
-<br/>;
 document.write(address);
-<br/>;
+
 
